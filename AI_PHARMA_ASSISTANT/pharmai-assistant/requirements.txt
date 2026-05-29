@@ -1,0 +1,6 @@
+streamlit>=1.28.0
+pymongo>=4.5.0
+bcrypt>=4.0.0
+python-dotenv>=1.0.0
+dnspython>=2.7.0
+ollama>=0.1.0
