@@ -275,4 +275,9 @@ PharmAI Assistant provides AI-generated medical information for educational purp
 This application does not replace professional medical advice, diagnosis, or treatment.
 
 Always consult a licensed doctor or pharmacist before taking any medication.
+# Author
+
+Developed by **N Srukesh Roshan**
+
+GitHub Project: PharmAI Assistant 💊
 
